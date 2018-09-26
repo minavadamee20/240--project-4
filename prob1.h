@@ -11,10 +11,10 @@ void getsentence() {
 }
 
 void YesDisplay() {
-	std::cout << "there are Yes " << Yescounter << " in the above line: ";
+	std::cout << "No. of YES votes = " << Yescounter << " in the above line: ";
 }
 void NoDisplay() {
-	std::cout << std::endl << "there are No " << Nocounter << " in the above line: ";
+	std::cout << std::endl << "No. of NO votes = " << Nocounter << " in the above line: ";
 }
 void YesStarDisplay() {
 	std::cout << "*";
