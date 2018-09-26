@@ -1,4 +1,5 @@
 #include "prob1.h"
+#include "prob2.h"
 #include <iostream>
 int main() {
 	assemblyprob1();
